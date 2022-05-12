@@ -1,0 +1,8 @@
+txt = "Thomas00LEE0000043"
+
+txt = txt.replace('0', ' ')
+txt = txt.split()
+txt = ' '.join(txt)
+txt = txt.split(' ')
+
+print(txt)
